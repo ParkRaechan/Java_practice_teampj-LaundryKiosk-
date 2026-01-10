@@ -6,6 +6,7 @@
 ## 시연영상 - 촬영필요  
   
 ---  
+## 모든 화면
 <img width="1177" height="695" alt="image" src="https://github.com/user-attachments/assets/40fd725d-ce79-45b2-8b65-bf5aec2cbc2c" />  
 <img width="1164" height="690" alt="image" src="https://github.com/user-attachments/assets/db4a6f34-9060-4a36-8caa-da4cbac01a0b" />  
 <img width="1128" height="668" alt="image" src="https://github.com/user-attachments/assets/80f1a089-2fdd-4f2c-bcb8-adaafa2efc38" />  
@@ -15,20 +16,19 @@
 <img width="1187" height="691" alt="image" src="https://github.com/user-attachments/assets/51d5ec66-70a3-4f4f-a128-45f5d032fb83" />  
 
 ---  
-## 진행단계  
-1. 주제선정 브레인 스토밍
-2. 주제 선정과 취합
-3. 주제에 맞는기능 생각하기
-4. 데이터베이스(db) 설계
-5. 프론트 - 에프엑스(fx) 설계
-6. 컨트롤(java) 설계
-7. fx 기초 제작
-8. 코드작성 1
-9. 중간점검
-10. 코드작성 2
-11. 오류검출테스트
-12. 최종점검
-    
+## 진행과정  
+1. 주제선정 브레인 스토밍  
+2. 주제 선정과 취합  
+3. 주제에 맞는기능 생각하기  
+4. 데이터베이스(db) 설계  
+5. 프론트 - 에프엑스(fx) 설계  
+6. 컨트롤(java) 설계  
+7. fx 기초 제작  
+8. 코드작성 1  
+9. 중간점검  
+10. 코드작성 2  
+11. 오류검출테스트  
+12. 최종점검  
 ### 1. 주제선정 브레인 스토밍  
 ![팀플 re6_2 기초2](https://user-images.githubusercontent.com/100547978/163544146-cf73d27e-3582-48d8-ad2c-a472da80c302.jpg)  
 ### 2. 주제 선정과 취합  
